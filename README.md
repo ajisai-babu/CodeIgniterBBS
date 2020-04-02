@@ -7,7 +7,7 @@
 - application 网站源码    
 	- controller 控制器
 	- views   视图
-	- models  模板
+	- models  模型
 - captcha 验证码
 - system CI核心
 - public 公共文件
