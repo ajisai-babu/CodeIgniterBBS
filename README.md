@@ -8,6 +8,8 @@
 	- controller 控制器
 	- views   视图
 	- models  模型
+	- config  配置
+	- core 拓展控制器
 - captcha 验证码
 - system CI核心
 - public 公共文件
