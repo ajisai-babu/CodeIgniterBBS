@@ -1,0 +1,22 @@
+body,h1,textarea,input,ul{margin: 0;padding: 0;}
+ul{list-style: none;}
+body{background: #eaedee;text-align: center;font-size: 13px;}
+h1{margin:20px;}
+a{text-decoration: none;color: #416fa9;}
+a:hover{text-decoration: none;color: #618fc9;}
+.button{width: 45px;height: 22px;margin:0 5px;}
+.center{text-align: center;}
+#box{color: #666;width: 70%;background: #fff;margin:20px auto;padding: 10px 5% 40px;}
+#loginbox .input{width: 120px;height: 18px;}
+#info{margin-bottom: 10px;}
+#comment .list{text-align: left; margin-bottom: 15px;border:1px dotted #999;border-bottom: 0;}
+#comment .list li{padding: 10px;border-bottom: 1px dotted #999;}
+#comment .right{float: right;}
+#comment .reply{text-align: left; width: 80%; margin:0 auto ;}
+#comment .reply li{padding: 10px;}
+#comment .reply .top{vertical-align: top;}
+#comment .reply textarea{width: 80%;height: 50px;}
+#comment .reply .input{width: 150px;}
+#footer a{border: 1px solid #fff;color: #999;padding: 2px 4px;margin:0 2px;line-height: 20px;}
+#footer a:hover{background: #f0f0f0;border: 1px solid #999;}
+#footer .curr{background: #f0f0f0;border:1px solid #999;}
